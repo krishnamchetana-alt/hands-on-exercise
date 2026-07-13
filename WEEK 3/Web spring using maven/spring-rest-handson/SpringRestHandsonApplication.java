@@ -1,0 +1,13 @@
+package com.example.springresthandson;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringRestHandsonApplication {
+
+	public static void main(String[] resignation) {
+		SpringApplication.run(SpringRestHandsonApplication.class, resignation);
+	}
+
+}
